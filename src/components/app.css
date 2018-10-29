@@ -1,0 +1,34 @@
+.app-main {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.comment-header {
+    background-color: purple;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.comment-textarea {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.comment-button {
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+    font-weight: bold;
+}
